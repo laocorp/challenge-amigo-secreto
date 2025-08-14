@@ -12,10 +12,10 @@ Aplicación web para organizar sorteos de _amigo secreto_: añade participantes 
 
 <img width="493" height="399" alt="image" src="https://github.com/user-attachments/assets/8f8cbe1e-ebad-4bb2-9cda-40b14f0068bc" />
 
-[🌐 Demo en vivo](https://lenercodelab.github.io/amigo_secreto/) ·
+[🌐 Demo en vivo]() ·
 [💻 Repositorio](https://github.com/laocorp/challenge-amigo-secreto) ·
 [👤 Portafolio GitHub](https://github.com/laocorp) ·
-[🔗 LinkedIn](https://www.linkedin.com/in/lenerhuamanperales/)
+[🔗 LinkedIn](https://www.linkedin.com/in/onelifety/)
 
 <p>
 <img src="https://img.shields.io/badge/STATUS-FINISHED-success">
